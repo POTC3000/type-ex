@@ -1,6 +1,20 @@
 /* Your Website Styles */
-
-
+body {
+	background: url("../img/subtle_white_mini_waves.png") repeat;
+}
+h1 {
+	font-family: 'Cardo', serif;
+	color: #99AABA;
+	font-size: 72px;
+}
+h3 {
+	font-family: 'Cardo', serif;
+	color: #99AABA;
+	font-size: 48px;
+}
+img {
+	width: 75%;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
